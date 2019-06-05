@@ -23,4 +23,5 @@ script:
 
 
 after_success:
+- ls -alh 
 - echo done
